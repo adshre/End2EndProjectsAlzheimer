@@ -8,7 +8,11 @@ This repo contains sms reminder service for alzheimer patients using python and 
 - Python
 - Flask
 - Twilo
+- postman
 - pythonAnywhere
+
+# screenshot of the application :
+
 
 ## Reference :
 https://www.twilio.com/blog/build-sms-reminder-service-python-twilio
