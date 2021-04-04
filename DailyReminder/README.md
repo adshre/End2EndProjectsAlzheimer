@@ -5,10 +5,10 @@ This repo contains sms reminder service for alzheimer patients using python and 
 ![Alt text](DailyReminder.gif)
 
 # Used :
-Python
-Flask
-Twilo
-pythonAnywhere
+- Python
+- Flask
+- Twilo
+- pythonAnywhere
 
 ## Reference :
 https://www.twilio.com/blog/build-sms-reminder-service-python-twilio
