@@ -11,7 +11,8 @@ This repo contains sms reminder service for alzheimer patients using python and 
 - postman
 - pythonAnywhere
 
-# screenshot of the application :
+# screenshot of the application : 
+https://github.com/adshre/End2EndProjects_Alzheimer/tree/master/DailyReminder/sc_dailyReminder
 
 
 ## Reference :
